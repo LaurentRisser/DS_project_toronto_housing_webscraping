@@ -1,7 +1,7 @@
 ## Housing Market, Web scrapping & Analysis
 ### Data Collection, Analysis, Visualisation and Machine Learning
 
-In this project I extract the data using Beautil Soup library. I clean and manipulate the data using Pandas to end up with a structured data frame. Then, I analyze the data and identify some trends in the housing market and give a few recommendations for potential renters.
+In this project I extract the data using Beautiful Soup library. I clean and manipulate the data using Pandas to end up with a structured data frame. Then, I analyze the data and identify interesting trends in the housing market and give a few recommendations for potential renters.
 
 The first file is only the webscrapper 
 The second part is the analysis and the recommendations
